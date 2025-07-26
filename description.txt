@@ -1,0 +1,24 @@
+
+Dependents : having children or old parent who are depending on customer financially
+
+tenure : number of months a customer has been with company
+
+
+PhoneService : calling service
+
+
+MultipleLines : having more than one device connected with company 
+
+
+DeviceProtection : is in warranty
+
+
+Contract : monthly or yearly plan of a service 
+
+
+PaperlessBilling  : yes - get bill online
+                    no  - get hardcopy of bill
+
+
+Churn : yes - customer left the company
+        no  - customer is still active
